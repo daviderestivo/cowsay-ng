@@ -1,4 +1,4 @@
-# rank-amateur-cowsay
+# Cowsay-ng
 
 This is cowsay, imported directly from my ancient CVS repository,
 plus a few documentation tweaks to make it a bit more friendly to
