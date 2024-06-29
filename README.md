@@ -1,13 +1,9 @@
-#+begin_html
-<h1 align="center">Fortune Mod</h1>
+<h1 align="center">Cowsay-ng</h1>
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="GNU General Public License Version 3.0">
   </a>
 </p>
-#+end_html
-
-# Cowsay-ng
 
 This is cowsay, imported directly from my ancient CVS repository,
 plus a few documentation tweaks to make it a bit more friendly to
